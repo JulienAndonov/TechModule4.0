@@ -9,13 +9,15 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Dictionary", "Dictionary\Di
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Decipher", "Decipher\Decipher.csproj", "{3283BA7C-AC59-421B-A31A-E3BB9D295919}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ChoreWars", "ChoreWars\ChoreWars.csproj", "{89B6C465-183D-4B23-A3DA-CBDE40F95D42}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ChoreWars", "ChoreWars\ChoreWars.csproj", "{89B6C465-183D-4B23-A3DA-CBDE40F95D42}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ChoreWarsRegex", "ChoreWarsRegex\ChoreWarsRegex.csproj", "{955AAC64-A82F-4941-8C3D-96BEDF68BD23}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ChoreWarsRegex", "ChoreWarsRegex\ChoreWarsRegex.csproj", "{955AAC64-A82F-4941-8C3D-96BEDF68BD23}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MeTube", "MeTube\MeTube.csproj", "{163B7D20-130A-4D97-959A-AB73DF90A2F1}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MeTube", "MeTube\MeTube.csproj", "{163B7D20-130A-4D97-959A-AB73DF90A2F1}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IronGirder", "IronGirder\IronGirder.csproj", "{123A5746-AEBE-4134-9243-56562AAF0546}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "IronGirder", "IronGirder\IronGirder.csproj", "{123A5746-AEBE-4134-9243-56562AAF0546}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PostOffice", "PostOffice\PostOffice.csproj", "{91E1CE12-981F-4583-8123-6D1ACDC69DD6}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -51,6 +53,10 @@ Global
 		{123A5746-AEBE-4134-9243-56562AAF0546}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{123A5746-AEBE-4134-9243-56562AAF0546}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{123A5746-AEBE-4134-9243-56562AAF0546}.Release|Any CPU.Build.0 = Release|Any CPU
+		{91E1CE12-981F-4583-8123-6D1ACDC69DD6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{91E1CE12-981F-4583-8123-6D1ACDC69DD6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{91E1CE12-981F-4583-8123-6D1ACDC69DD6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{91E1CE12-981F-4583-8123-6D1ACDC69DD6}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

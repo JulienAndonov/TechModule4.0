@@ -1,0 +1,55 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2048
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Orders", "ExerciseDictionariesTasks\Orders.csproj", "{880FEFD8-C7BB-4064-9766-6107E9537906}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Parking Spaces", "Parking Spaces\Parking Spaces.csproj", "{44608996-5479-4DB6-B087-4DC491203EFB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SoftUniExamResults", "SoftUniExamResults\SoftUniExamResults.csproj", "{5E98E173-FB09-4865-87B7-163A8D92A370}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ForceBook", "ForceBook\ForceBook.csproj", "{BE43B50D-4FFC-4F41-B78F-C99A78D10EBF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SoftUnIExamResults2", "SoftUnIExamResults2\SoftUnIExamResults2.csproj", "{8A6F2C23-6536-4175-BB72-F2882E68C77C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SoftUniExamResults3", "SoftUniExamResults3\SoftUniExamResults3.csproj", "{34BD1F5B-2BB3-4A4C-8900-4D90B89B04E6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{880FEFD8-C7BB-4064-9766-6107E9537906}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{880FEFD8-C7BB-4064-9766-6107E9537906}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{880FEFD8-C7BB-4064-9766-6107E9537906}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{880FEFD8-C7BB-4064-9766-6107E9537906}.Release|Any CPU.Build.0 = Release|Any CPU
+		{44608996-5479-4DB6-B087-4DC491203EFB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{44608996-5479-4DB6-B087-4DC491203EFB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{44608996-5479-4DB6-B087-4DC491203EFB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{44608996-5479-4DB6-B087-4DC491203EFB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5E98E173-FB09-4865-87B7-163A8D92A370}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5E98E173-FB09-4865-87B7-163A8D92A370}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5E98E173-FB09-4865-87B7-163A8D92A370}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5E98E173-FB09-4865-87B7-163A8D92A370}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BE43B50D-4FFC-4F41-B78F-C99A78D10EBF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BE43B50D-4FFC-4F41-B78F-C99A78D10EBF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BE43B50D-4FFC-4F41-B78F-C99A78D10EBF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BE43B50D-4FFC-4F41-B78F-C99A78D10EBF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8A6F2C23-6536-4175-BB72-F2882E68C77C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8A6F2C23-6536-4175-BB72-F2882E68C77C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8A6F2C23-6536-4175-BB72-F2882E68C77C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8A6F2C23-6536-4175-BB72-F2882E68C77C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{34BD1F5B-2BB3-4A4C-8900-4D90B89B04E6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{34BD1F5B-2BB3-4A4C-8900-4D90B89B04E6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{34BD1F5B-2BB3-4A4C-8900-4D90B89B04E6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{34BD1F5B-2BB3-4A4C-8900-4D90B89B04E6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C612492B-DFF9-467C-BF6B-46BB722F5651}
+	EndGlobalSection
+EndGlobal

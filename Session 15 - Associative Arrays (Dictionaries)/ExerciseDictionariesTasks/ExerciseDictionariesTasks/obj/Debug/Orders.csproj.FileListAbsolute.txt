@@ -1,0 +1,7 @@
+c:\users\julienvalerievandono\source\repos\ExerciseDictionariesTasks\ExerciseDictionariesTasks\bin\Debug\ExerciseDictionariesTasks.exe.config
+c:\users\julienvalerievandono\source\repos\ExerciseDictionariesTasks\ExerciseDictionariesTasks\bin\Debug\ExerciseDictionariesTasks.exe
+c:\users\julienvalerievandono\source\repos\ExerciseDictionariesTasks\ExerciseDictionariesTasks\bin\Debug\ExerciseDictionariesTasks.pdb
+c:\users\julienvalerievandono\source\repos\ExerciseDictionariesTasks\ExerciseDictionariesTasks\obj\Debug\Orders.csprojAssemblyReference.cache
+c:\users\julienvalerievandono\source\repos\ExerciseDictionariesTasks\ExerciseDictionariesTasks\obj\Debug\Orders.csproj.CoreCompileInputs.cache
+c:\users\julienvalerievandono\source\repos\ExerciseDictionariesTasks\ExerciseDictionariesTasks\obj\Debug\ExerciseDictionariesTasks.exe
+c:\users\julienvalerievandono\source\repos\ExerciseDictionariesTasks\ExerciseDictionariesTasks\obj\Debug\ExerciseDictionariesTasks.pdb

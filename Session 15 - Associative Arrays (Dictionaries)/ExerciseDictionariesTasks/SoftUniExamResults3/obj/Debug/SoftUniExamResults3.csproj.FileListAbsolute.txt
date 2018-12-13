@@ -1,0 +1,7 @@
+C:\Users\JulienValerievAndono\source\repos\ExerciseDictionariesTasks\SoftUniExamResults3\bin\Debug\SoftUniExamResults3.exe.config
+C:\Users\JulienValerievAndono\source\repos\ExerciseDictionariesTasks\SoftUniExamResults3\bin\Debug\SoftUniExamResults3.exe
+C:\Users\JulienValerievAndono\source\repos\ExerciseDictionariesTasks\SoftUniExamResults3\bin\Debug\SoftUniExamResults3.pdb
+C:\Users\JulienValerievAndono\source\repos\ExerciseDictionariesTasks\SoftUniExamResults3\obj\Debug\SoftUniExamResults3.csprojAssemblyReference.cache
+C:\Users\JulienValerievAndono\source\repos\ExerciseDictionariesTasks\SoftUniExamResults3\obj\Debug\SoftUniExamResults3.csproj.CoreCompileInputs.cache
+C:\Users\JulienValerievAndono\source\repos\ExerciseDictionariesTasks\SoftUniExamResults3\obj\Debug\SoftUniExamResults3.exe
+C:\Users\JulienValerievAndono\source\repos\ExerciseDictionariesTasks\SoftUniExamResults3\obj\Debug\SoftUniExamResults3.pdb

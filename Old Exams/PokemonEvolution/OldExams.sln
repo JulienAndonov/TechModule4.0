@@ -1,0 +1,61 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.106
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PokemonEvolution", "PokemonEvolution\PokemonEvolution.csproj", "{43ED55C6-6052-4342-BC2C-110F7175F782}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Dictionary", "Dictionary\Dictionary.csproj", "{A9D1EC86-56BF-4DAC-939E-C89088AEED8D}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Decipher", "Decipher\Decipher.csproj", "{3283BA7C-AC59-421B-A31A-E3BB9D295919}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ChoreWars", "ChoreWars\ChoreWars.csproj", "{89B6C465-183D-4B23-A3DA-CBDE40F95D42}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ChoreWarsRegex", "ChoreWarsRegex\ChoreWarsRegex.csproj", "{955AAC64-A82F-4941-8C3D-96BEDF68BD23}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MeTube", "MeTube\MeTube.csproj", "{163B7D20-130A-4D97-959A-AB73DF90A2F1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IronGirder", "IronGirder\IronGirder.csproj", "{123A5746-AEBE-4134-9243-56562AAF0546}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{43ED55C6-6052-4342-BC2C-110F7175F782}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{43ED55C6-6052-4342-BC2C-110F7175F782}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{43ED55C6-6052-4342-BC2C-110F7175F782}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{43ED55C6-6052-4342-BC2C-110F7175F782}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A9D1EC86-56BF-4DAC-939E-C89088AEED8D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A9D1EC86-56BF-4DAC-939E-C89088AEED8D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A9D1EC86-56BF-4DAC-939E-C89088AEED8D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A9D1EC86-56BF-4DAC-939E-C89088AEED8D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3283BA7C-AC59-421B-A31A-E3BB9D295919}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3283BA7C-AC59-421B-A31A-E3BB9D295919}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3283BA7C-AC59-421B-A31A-E3BB9D295919}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3283BA7C-AC59-421B-A31A-E3BB9D295919}.Release|Any CPU.Build.0 = Release|Any CPU
+		{89B6C465-183D-4B23-A3DA-CBDE40F95D42}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{89B6C465-183D-4B23-A3DA-CBDE40F95D42}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{89B6C465-183D-4B23-A3DA-CBDE40F95D42}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{89B6C465-183D-4B23-A3DA-CBDE40F95D42}.Release|Any CPU.Build.0 = Release|Any CPU
+		{955AAC64-A82F-4941-8C3D-96BEDF68BD23}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{955AAC64-A82F-4941-8C3D-96BEDF68BD23}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{955AAC64-A82F-4941-8C3D-96BEDF68BD23}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{955AAC64-A82F-4941-8C3D-96BEDF68BD23}.Release|Any CPU.Build.0 = Release|Any CPU
+		{163B7D20-130A-4D97-959A-AB73DF90A2F1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{163B7D20-130A-4D97-959A-AB73DF90A2F1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{163B7D20-130A-4D97-959A-AB73DF90A2F1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{163B7D20-130A-4D97-959A-AB73DF90A2F1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{123A5746-AEBE-4134-9243-56562AAF0546}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{123A5746-AEBE-4134-9243-56562AAF0546}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{123A5746-AEBE-4134-9243-56562AAF0546}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{123A5746-AEBE-4134-9243-56562AAF0546}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4E980FD6-534B-4E6D-BB67-67CC0507C6F4}
+	EndGlobalSection
+EndGlobal

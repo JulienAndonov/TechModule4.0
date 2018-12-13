@@ -1,0 +1,6 @@
+C:\Users\JulienValerievAndono\source\repos\LabStringProcessingTasls\StringDigitsOthers\bin\Debug\StringDigitsOthers.exe.config
+C:\Users\JulienValerievAndono\source\repos\LabStringProcessingTasls\StringDigitsOthers\bin\Debug\StringDigitsOthers.exe
+C:\Users\JulienValerievAndono\source\repos\LabStringProcessingTasls\StringDigitsOthers\bin\Debug\StringDigitsOthers.pdb
+C:\Users\JulienValerievAndono\source\repos\LabStringProcessingTasls\StringDigitsOthers\obj\Debug\StringDigitsOthers.csproj.CoreCompileInputs.cache
+C:\Users\JulienValerievAndono\source\repos\LabStringProcessingTasls\StringDigitsOthers\obj\Debug\StringDigitsOthers.exe
+C:\Users\JulienValerievAndono\source\repos\LabStringProcessingTasls\StringDigitsOthers\obj\Debug\StringDigitsOthers.pdb

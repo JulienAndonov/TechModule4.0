@@ -1,0 +1,10 @@
+F:\University\SoftUni\Tech Module 4\C#IBM\ExercisesStringProcessingTasks\MorseCode\bin\Debug\netcoreapp2.1\MorseCode.deps.json
+F:\University\SoftUni\Tech Module 4\C#IBM\ExercisesStringProcessingTasks\MorseCode\bin\Debug\netcoreapp2.1\MorseCode.runtimeconfig.json
+F:\University\SoftUni\Tech Module 4\C#IBM\ExercisesStringProcessingTasks\MorseCode\bin\Debug\netcoreapp2.1\MorseCode.runtimeconfig.dev.json
+F:\University\SoftUni\Tech Module 4\C#IBM\ExercisesStringProcessingTasks\MorseCode\bin\Debug\netcoreapp2.1\MorseCode.dll
+F:\University\SoftUni\Tech Module 4\C#IBM\ExercisesStringProcessingTasks\MorseCode\bin\Debug\netcoreapp2.1\MorseCode.pdb
+F:\University\SoftUni\Tech Module 4\C#IBM\ExercisesStringProcessingTasks\MorseCode\obj\Debug\netcoreapp2.1\MorseCode.csproj.CoreCompileInputs.cache
+F:\University\SoftUni\Tech Module 4\C#IBM\ExercisesStringProcessingTasks\MorseCode\obj\Debug\netcoreapp2.1\MorseCode.AssemblyInfoInputs.cache
+F:\University\SoftUni\Tech Module 4\C#IBM\ExercisesStringProcessingTasks\MorseCode\obj\Debug\netcoreapp2.1\MorseCode.AssemblyInfo.cs
+F:\University\SoftUni\Tech Module 4\C#IBM\ExercisesStringProcessingTasks\MorseCode\obj\Debug\netcoreapp2.1\MorseCode.dll
+F:\University\SoftUni\Tech Module 4\C#IBM\ExercisesStringProcessingTasks\MorseCode\obj\Debug\netcoreapp2.1\MorseCode.pdb

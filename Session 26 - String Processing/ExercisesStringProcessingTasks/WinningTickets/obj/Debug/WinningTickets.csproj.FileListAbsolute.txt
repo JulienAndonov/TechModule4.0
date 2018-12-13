@@ -1,0 +1,7 @@
+C:\Users\JulienValerievAndono\source\repos\ExercisesStringProcessingTasks\WinningTickets\bin\Debug\WinningTickets.exe.config
+C:\Users\JulienValerievAndono\source\repos\ExercisesStringProcessingTasks\WinningTickets\bin\Debug\WinningTickets.exe
+C:\Users\JulienValerievAndono\source\repos\ExercisesStringProcessingTasks\WinningTickets\bin\Debug\WinningTickets.pdb
+C:\Users\JulienValerievAndono\source\repos\ExercisesStringProcessingTasks\WinningTickets\obj\Debug\WinningTickets.csprojAssemblyReference.cache
+C:\Users\JulienValerievAndono\source\repos\ExercisesStringProcessingTasks\WinningTickets\obj\Debug\WinningTickets.csproj.CoreCompileInputs.cache
+C:\Users\JulienValerievAndono\source\repos\ExercisesStringProcessingTasks\WinningTickets\obj\Debug\WinningTickets.exe
+C:\Users\JulienValerievAndono\source\repos\ExercisesStringProcessingTasks\WinningTickets\obj\Debug\WinningTickets.pdb

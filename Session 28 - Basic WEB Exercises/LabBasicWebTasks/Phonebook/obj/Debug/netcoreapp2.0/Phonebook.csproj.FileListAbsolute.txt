@@ -1,0 +1,44 @@
+D:\VS projects\Phonebook\Phonebook\bin\Debug\netcoreapp2.0\Phonebook.deps.json
+D:\VS projects\Phonebook\Phonebook\bin\Debug\netcoreapp2.0\Phonebook.runtimeconfig.json
+D:\VS projects\Phonebook\Phonebook\bin\Debug\netcoreapp2.0\Phonebook.runtimeconfig.dev.json
+D:\VS projects\Phonebook\Phonebook\bin\Debug\netcoreapp2.0\Phonebook.dll
+D:\VS projects\Phonebook\Phonebook\obj\Debug\netcoreapp2.0\Phonebook.csprojAssemblyReference.cache
+D:\VS projects\Phonebook\Phonebook\obj\Debug\netcoreapp2.0\Phonebook.csproj.CoreCompileInputs.cache
+D:\VS projects\Phonebook\Phonebook\obj\Debug\netcoreapp2.0\Phonebook.AssemblyInfoInputs.cache
+D:\VS projects\Phonebook\Phonebook\obj\Debug\netcoreapp2.0\Phonebook.AssemblyInfo.cs
+D:\VS projects\Phonebook\Phonebook\bin\Debug\netcoreapp2.0\Phonebook.pdb
+D:\VS projects\Phonebook\Phonebook\obj\Debug\netcoreapp2.0\Phonebook.dll
+D:\VS projects\Phonebook\Phonebook\obj\Debug\netcoreapp2.0\Phonebook.pdb
+D:\basic Web\Skeleton\Phonebook\bin\Debug\netcoreapp2.0\Phonebook.deps.json
+D:\basic Web\Skeleton\Phonebook\bin\Debug\netcoreapp2.0\Phonebook.runtimeconfig.json
+D:\basic Web\Skeleton\Phonebook\bin\Debug\netcoreapp2.0\Phonebook.runtimeconfig.dev.json
+D:\basic Web\Skeleton\Phonebook\bin\Debug\netcoreapp2.0\Phonebook.dll
+D:\basic Web\Skeleton\Phonebook\bin\Debug\netcoreapp2.0\Phonebook.pdb
+D:\basic Web\Skeleton\Phonebook\obj\Debug\netcoreapp2.0\Phonebook.csprojAssemblyReference.cache
+D:\basic Web\Skeleton\Phonebook\obj\Debug\netcoreapp2.0\Phonebook.csproj.CoreCompileInputs.cache
+D:\basic Web\Skeleton\Phonebook\obj\Debug\netcoreapp2.0\Phonebook.AssemblyInfoInputs.cache
+D:\basic Web\Skeleton\Phonebook\obj\Debug\netcoreapp2.0\Phonebook.AssemblyInfo.cs
+D:\basic Web\Skeleton\Phonebook\obj\Debug\netcoreapp2.0\Phonebook.dll
+D:\basic Web\Skeleton\Phonebook\obj\Debug\netcoreapp2.0\Phonebook.pdb
+F:\University\SoftUni\Tech Module 4\C#IBM\LabBasicWebTasks\Phonebook\obj\Debug\netcoreapp2.0\Phonebook.csprojAssemblyReference.cache
+F:\University\SoftUni\Tech Module 4\C#IBM\LabBasicWebTasks\Phonebook\obj\Debug\netcoreapp2.0\Phonebook.csproj.CoreCompileInputs.cache
+F:\University\SoftUni\Tech Module 4\C#IBM\LabBasicWebTasks\Phonebook\obj\Debug\netcoreapp2.0\Phonebook.AssemblyInfoInputs.cache
+F:\University\SoftUni\Tech Module 4\C#IBM\LabBasicWebTasks\Phonebook\obj\Debug\netcoreapp2.0\Phonebook.AssemblyInfo.cs
+F:\University\SoftUni\Tech Module 4\C#IBM\LabBasicWebTasks\Phonebook\obj\Debug\netcoreapp2.0\Phonebook.dll
+F:\University\SoftUni\Tech Module 4\C#IBM\LabBasicWebTasks\Phonebook\obj\Debug\netcoreapp2.0\Phonebook.pdb
+F:\University\SoftUni\Tech Module 4\C#IBM\LabBasicWebTasks\Phonebook\bin\Debug\netcoreapp2.0\Phonebook.deps.json
+F:\University\SoftUni\Tech Module 4\C#IBM\LabBasicWebTasks\Phonebook\bin\Debug\netcoreapp2.0\Phonebook.runtimeconfig.json
+F:\University\SoftUni\Tech Module 4\C#IBM\LabBasicWebTasks\Phonebook\bin\Debug\netcoreapp2.0\Phonebook.runtimeconfig.dev.json
+F:\University\SoftUni\Tech Module 4\C#IBM\LabBasicWebTasks\Phonebook\bin\Debug\netcoreapp2.0\Phonebook.dll
+F:\University\SoftUni\Tech Module 4\C#IBM\LabBasicWebTasks\Phonebook\bin\Debug\netcoreapp2.0\Phonebook.pdb
+C:\Users\JulienValerievAndono\source\repos\LabBasicWebTasks\Phonebook\bin\Debug\netcoreapp2.0\Phonebook.deps.json
+C:\Users\JulienValerievAndono\source\repos\LabBasicWebTasks\Phonebook\bin\Debug\netcoreapp2.0\Phonebook.runtimeconfig.json
+C:\Users\JulienValerievAndono\source\repos\LabBasicWebTasks\Phonebook\bin\Debug\netcoreapp2.0\Phonebook.runtimeconfig.dev.json
+C:\Users\JulienValerievAndono\source\repos\LabBasicWebTasks\Phonebook\bin\Debug\netcoreapp2.0\Phonebook.dll
+C:\Users\JulienValerievAndono\source\repos\LabBasicWebTasks\Phonebook\bin\Debug\netcoreapp2.0\Phonebook.pdb
+C:\Users\JulienValerievAndono\source\repos\LabBasicWebTasks\Phonebook\obj\Debug\netcoreapp2.0\Phonebook.csprojAssemblyReference.cache
+C:\Users\JulienValerievAndono\source\repos\LabBasicWebTasks\Phonebook\obj\Debug\netcoreapp2.0\Phonebook.csproj.CoreCompileInputs.cache
+C:\Users\JulienValerievAndono\source\repos\LabBasicWebTasks\Phonebook\obj\Debug\netcoreapp2.0\Phonebook.AssemblyInfoInputs.cache
+C:\Users\JulienValerievAndono\source\repos\LabBasicWebTasks\Phonebook\obj\Debug\netcoreapp2.0\Phonebook.AssemblyInfo.cs
+C:\Users\JulienValerievAndono\source\repos\LabBasicWebTasks\Phonebook\obj\Debug\netcoreapp2.0\Phonebook.dll
+C:\Users\JulienValerievAndono\source\repos\LabBasicWebTasks\Phonebook\obj\Debug\netcoreapp2.0\Phonebook.pdb

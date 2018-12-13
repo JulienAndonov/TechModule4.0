@@ -1,0 +1,7 @@
+C:\Users\JulienValerievAndono\source\repos\ExercisesStringProcessingTasks\CharacterMultiplier\bin\Debug\CharacterMultiplier.exe.config
+C:\Users\JulienValerievAndono\source\repos\ExercisesStringProcessingTasks\CharacterMultiplier\bin\Debug\CharacterMultiplier.exe
+C:\Users\JulienValerievAndono\source\repos\ExercisesStringProcessingTasks\CharacterMultiplier\bin\Debug\CharacterMultiplier.pdb
+C:\Users\JulienValerievAndono\source\repos\ExercisesStringProcessingTasks\CharacterMultiplier\obj\Debug\CharacterMultiplier.csprojAssemblyReference.cache
+C:\Users\JulienValerievAndono\source\repos\ExercisesStringProcessingTasks\CharacterMultiplier\obj\Debug\CharacterMultiplier.csproj.CoreCompileInputs.cache
+C:\Users\JulienValerievAndono\source\repos\ExercisesStringProcessingTasks\CharacterMultiplier\obj\Debug\CharacterMultiplier.exe
+C:\Users\JulienValerievAndono\source\repos\ExercisesStringProcessingTasks\CharacterMultiplier\obj\Debug\CharacterMultiplier.pdb

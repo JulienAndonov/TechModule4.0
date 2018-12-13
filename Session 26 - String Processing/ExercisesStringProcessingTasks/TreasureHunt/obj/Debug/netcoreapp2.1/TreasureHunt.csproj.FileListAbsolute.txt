@@ -1,0 +1,11 @@
+F:\University\SoftUni\Tech Module 4\C#IBM\ExercisesStringProcessingTasks\TreasureHunt\bin\Debug\netcoreapp2.1\TreasureHunt.deps.json
+F:\University\SoftUni\Tech Module 4\C#IBM\ExercisesStringProcessingTasks\TreasureHunt\bin\Debug\netcoreapp2.1\TreasureHunt.runtimeconfig.json
+F:\University\SoftUni\Tech Module 4\C#IBM\ExercisesStringProcessingTasks\TreasureHunt\bin\Debug\netcoreapp2.1\TreasureHunt.runtimeconfig.dev.json
+F:\University\SoftUni\Tech Module 4\C#IBM\ExercisesStringProcessingTasks\TreasureHunt\bin\Debug\netcoreapp2.1\TreasureHunt.dll
+F:\University\SoftUni\Tech Module 4\C#IBM\ExercisesStringProcessingTasks\TreasureHunt\bin\Debug\netcoreapp2.1\TreasureHunt.pdb
+F:\University\SoftUni\Tech Module 4\C#IBM\ExercisesStringProcessingTasks\TreasureHunt\obj\Debug\netcoreapp2.1\TreasureHunt.csprojAssemblyReference.cache
+F:\University\SoftUni\Tech Module 4\C#IBM\ExercisesStringProcessingTasks\TreasureHunt\obj\Debug\netcoreapp2.1\TreasureHunt.csproj.CoreCompileInputs.cache
+F:\University\SoftUni\Tech Module 4\C#IBM\ExercisesStringProcessingTasks\TreasureHunt\obj\Debug\netcoreapp2.1\TreasureHunt.AssemblyInfoInputs.cache
+F:\University\SoftUni\Tech Module 4\C#IBM\ExercisesStringProcessingTasks\TreasureHunt\obj\Debug\netcoreapp2.1\TreasureHunt.AssemblyInfo.cs
+F:\University\SoftUni\Tech Module 4\C#IBM\ExercisesStringProcessingTasks\TreasureHunt\obj\Debug\netcoreapp2.1\TreasureHunt.dll
+F:\University\SoftUni\Tech Module 4\C#IBM\ExercisesStringProcessingTasks\TreasureHunt\obj\Debug\netcoreapp2.1\TreasureHunt.pdb

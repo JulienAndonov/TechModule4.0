@@ -1,0 +1,7 @@
+C:\Users\JulienValerievAndono\source\repos\LabStringProcessingTasls\TextFilter\bin\Debug\TextFilter.exe.config
+C:\Users\JulienValerievAndono\source\repos\LabStringProcessingTasls\TextFilter\bin\Debug\TextFilter.exe
+C:\Users\JulienValerievAndono\source\repos\LabStringProcessingTasls\TextFilter\bin\Debug\TextFilter.pdb
+C:\Users\JulienValerievAndono\source\repos\LabStringProcessingTasls\TextFilter\obj\Debug\TextFilter.csproj.CoreCompileInputs.cache
+C:\Users\JulienValerievAndono\source\repos\LabStringProcessingTasls\TextFilter\obj\Debug\TextFilter.exe
+C:\Users\JulienValerievAndono\source\repos\LabStringProcessingTasls\TextFilter\obj\Debug\TextFilter.pdb
+C:\Users\JulienValerievAndono\source\repos\LabStringProcessingTasls\TextFilter\obj\Debug\TextFilter.csprojAssemblyReference.cache

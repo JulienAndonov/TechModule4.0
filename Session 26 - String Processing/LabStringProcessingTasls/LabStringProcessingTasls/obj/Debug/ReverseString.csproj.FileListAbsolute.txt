@@ -1,0 +1,7 @@
+C:\Users\JulienValerievAndono\source\repos\LabStringProcessingTasls\LabStringProcessingTasls\bin\Debug\LabStringProcessingTasls.exe.config
+C:\Users\JulienValerievAndono\source\repos\LabStringProcessingTasls\LabStringProcessingTasls\bin\Debug\LabStringProcessingTasls.exe
+C:\Users\JulienValerievAndono\source\repos\LabStringProcessingTasls\LabStringProcessingTasls\bin\Debug\LabStringProcessingTasls.pdb
+C:\Users\JulienValerievAndono\source\repos\LabStringProcessingTasls\LabStringProcessingTasls\obj\Debug\ReverseString.csprojAssemblyReference.cache
+C:\Users\JulienValerievAndono\source\repos\LabStringProcessingTasls\LabStringProcessingTasls\obj\Debug\ReverseString.csproj.CoreCompileInputs.cache
+C:\Users\JulienValerievAndono\source\repos\LabStringProcessingTasls\LabStringProcessingTasls\obj\Debug\LabStringProcessingTasls.exe
+C:\Users\JulienValerievAndono\source\repos\LabStringProcessingTasls\LabStringProcessingTasls\obj\Debug\LabStringProcessingTasls.pdb

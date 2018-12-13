@@ -1,0 +1,7 @@
+C:\Users\JulienValerievAndono\source\repos\ExerciseDictionariesTasks\ForceBook\bin\Debug\ForceBook.exe.config
+C:\Users\JulienValerievAndono\source\repos\ExerciseDictionariesTasks\ForceBook\bin\Debug\ForceBook.exe
+C:\Users\JulienValerievAndono\source\repos\ExerciseDictionariesTasks\ForceBook\bin\Debug\ForceBook.pdb
+C:\Users\JulienValerievAndono\source\repos\ExerciseDictionariesTasks\ForceBook\obj\Debug\ForceBook.csproj.CoreCompileInputs.cache
+C:\Users\JulienValerievAndono\source\repos\ExerciseDictionariesTasks\ForceBook\obj\Debug\ForceBook.exe
+C:\Users\JulienValerievAndono\source\repos\ExerciseDictionariesTasks\ForceBook\obj\Debug\ForceBook.pdb
+C:\Users\JulienValerievAndono\source\repos\ExerciseDictionariesTasks\ForceBook\obj\Debug\ForceBook.csprojAssemblyReference.cache

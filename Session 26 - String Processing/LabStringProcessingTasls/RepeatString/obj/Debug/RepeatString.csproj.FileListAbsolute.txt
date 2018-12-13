@@ -1,0 +1,6 @@
+C:\Users\JulienValerievAndono\source\repos\LabStringProcessingTasls\RepeatString\bin\Debug\RepeatString.exe.config
+C:\Users\JulienValerievAndono\source\repos\LabStringProcessingTasls\RepeatString\bin\Debug\RepeatString.exe
+C:\Users\JulienValerievAndono\source\repos\LabStringProcessingTasls\RepeatString\bin\Debug\RepeatString.pdb
+C:\Users\JulienValerievAndono\source\repos\LabStringProcessingTasls\RepeatString\obj\Debug\RepeatString.csproj.CoreCompileInputs.cache
+C:\Users\JulienValerievAndono\source\repos\LabStringProcessingTasls\RepeatString\obj\Debug\RepeatString.exe
+C:\Users\JulienValerievAndono\source\repos\LabStringProcessingTasls\RepeatString\obj\Debug\RepeatString.pdb

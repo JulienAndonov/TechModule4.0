@@ -1,0 +1,14 @@
+C:\Users\JulienValerievAndono\source\repos\ExerciseDictionariesTasks\SoftUniExamResults\bin\Debug\SoftUniExamResults.exe.config
+C:\Users\JulienValerievAndono\source\repos\ExerciseDictionariesTasks\SoftUniExamResults\bin\Debug\SoftUniExamResults.exe
+C:\Users\JulienValerievAndono\source\repos\ExerciseDictionariesTasks\SoftUniExamResults\bin\Debug\SoftUniExamResults.pdb
+C:\Users\JulienValerievAndono\source\repos\ExerciseDictionariesTasks\SoftUniExamResults\obj\Debug\SoftUniExamResults.csprojAssemblyReference.cache
+C:\Users\JulienValerievAndono\source\repos\ExerciseDictionariesTasks\SoftUniExamResults\obj\Debug\SoftUniExamResults.csproj.CoreCompileInputs.cache
+C:\Users\JulienValerievAndono\source\repos\ExerciseDictionariesTasks\SoftUniExamResults\obj\Debug\SoftUniExamResults.exe
+C:\Users\JulienValerievAndono\source\repos\ExerciseDictionariesTasks\SoftUniExamResults\obj\Debug\SoftUniExamResults.pdb
+F:\University\SoftUni\Tech Module 4\C#IBM\ExerciseDictionariesTasks\SoftUniExamResults\bin\Debug\SoftUniExamResults.exe.config
+F:\University\SoftUni\Tech Module 4\C#IBM\ExerciseDictionariesTasks\SoftUniExamResults\bin\Debug\SoftUniExamResults.exe
+F:\University\SoftUni\Tech Module 4\C#IBM\ExerciseDictionariesTasks\SoftUniExamResults\bin\Debug\SoftUniExamResults.pdb
+F:\University\SoftUni\Tech Module 4\C#IBM\ExerciseDictionariesTasks\SoftUniExamResults\obj\Debug\SoftUniExamResults.csprojAssemblyReference.cache
+F:\University\SoftUni\Tech Module 4\C#IBM\ExerciseDictionariesTasks\SoftUniExamResults\obj\Debug\SoftUniExamResults.csproj.CoreCompileInputs.cache
+F:\University\SoftUni\Tech Module 4\C#IBM\ExerciseDictionariesTasks\SoftUniExamResults\obj\Debug\SoftUniExamResults.exe
+F:\University\SoftUni\Tech Module 4\C#IBM\ExerciseDictionariesTasks\SoftUniExamResults\obj\Debug\SoftUniExamResults.pdb

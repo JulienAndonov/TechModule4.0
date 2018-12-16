@@ -1,0 +1,11 @@
+C:\University\C#IBM\TechModule4.0\Old Exams\PokemonEvolution\Concert\bin\Debug\netcoreapp2.1\Concert.deps.json
+C:\University\C#IBM\TechModule4.0\Old Exams\PokemonEvolution\Concert\bin\Debug\netcoreapp2.1\Concert.runtimeconfig.json
+C:\University\C#IBM\TechModule4.0\Old Exams\PokemonEvolution\Concert\bin\Debug\netcoreapp2.1\Concert.runtimeconfig.dev.json
+C:\University\C#IBM\TechModule4.0\Old Exams\PokemonEvolution\Concert\bin\Debug\netcoreapp2.1\Concert.dll
+C:\University\C#IBM\TechModule4.0\Old Exams\PokemonEvolution\Concert\bin\Debug\netcoreapp2.1\Concert.pdb
+C:\University\C#IBM\TechModule4.0\Old Exams\PokemonEvolution\Concert\obj\Debug\netcoreapp2.1\Concert.csprojAssemblyReference.cache
+C:\University\C#IBM\TechModule4.0\Old Exams\PokemonEvolution\Concert\obj\Debug\netcoreapp2.1\Concert.csproj.CoreCompileInputs.cache
+C:\University\C#IBM\TechModule4.0\Old Exams\PokemonEvolution\Concert\obj\Debug\netcoreapp2.1\Concert.AssemblyInfoInputs.cache
+C:\University\C#IBM\TechModule4.0\Old Exams\PokemonEvolution\Concert\obj\Debug\netcoreapp2.1\Concert.AssemblyInfo.cs
+C:\University\C#IBM\TechModule4.0\Old Exams\PokemonEvolution\Concert\obj\Debug\netcoreapp2.1\Concert.dll
+C:\University\C#IBM\TechModule4.0\Old Exams\PokemonEvolution\Concert\obj\Debug\netcoreapp2.1\Concert.pdb

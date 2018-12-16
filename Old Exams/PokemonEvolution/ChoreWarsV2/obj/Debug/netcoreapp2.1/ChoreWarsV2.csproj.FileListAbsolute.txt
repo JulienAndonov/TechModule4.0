@@ -1,0 +1,11 @@
+C:\University\C#IBM\TechModule4.0\Old Exams\PokemonEvolution\ChoreWarsV2\bin\Debug\netcoreapp2.1\ChoreWarsV2.deps.json
+C:\University\C#IBM\TechModule4.0\Old Exams\PokemonEvolution\ChoreWarsV2\bin\Debug\netcoreapp2.1\ChoreWarsV2.runtimeconfig.json
+C:\University\C#IBM\TechModule4.0\Old Exams\PokemonEvolution\ChoreWarsV2\bin\Debug\netcoreapp2.1\ChoreWarsV2.runtimeconfig.dev.json
+C:\University\C#IBM\TechModule4.0\Old Exams\PokemonEvolution\ChoreWarsV2\bin\Debug\netcoreapp2.1\ChoreWarsV2.dll
+C:\University\C#IBM\TechModule4.0\Old Exams\PokemonEvolution\ChoreWarsV2\bin\Debug\netcoreapp2.1\ChoreWarsV2.pdb
+C:\University\C#IBM\TechModule4.0\Old Exams\PokemonEvolution\ChoreWarsV2\obj\Debug\netcoreapp2.1\ChoreWarsV2.csproj.CoreCompileInputs.cache
+C:\University\C#IBM\TechModule4.0\Old Exams\PokemonEvolution\ChoreWarsV2\obj\Debug\netcoreapp2.1\ChoreWarsV2.AssemblyInfoInputs.cache
+C:\University\C#IBM\TechModule4.0\Old Exams\PokemonEvolution\ChoreWarsV2\obj\Debug\netcoreapp2.1\ChoreWarsV2.AssemblyInfo.cs
+C:\University\C#IBM\TechModule4.0\Old Exams\PokemonEvolution\ChoreWarsV2\obj\Debug\netcoreapp2.1\ChoreWarsV2.dll
+C:\University\C#IBM\TechModule4.0\Old Exams\PokemonEvolution\ChoreWarsV2\obj\Debug\netcoreapp2.1\ChoreWarsV2.pdb
+C:\University\C#IBM\TechModule4.0\Old Exams\PokemonEvolution\ChoreWarsV2\obj\Debug\netcoreapp2.1\ChoreWarsV2.csprojAssemblyReference.cache

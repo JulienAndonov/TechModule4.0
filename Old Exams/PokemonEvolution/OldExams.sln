@@ -17,7 +17,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MeTube", "MeTube\MeTube.csp
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "IronGirder", "IronGirder\IronGirder.csproj", "{123A5746-AEBE-4134-9243-56562AAF0546}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PostOffice", "PostOffice\PostOffice.csproj", "{91E1CE12-981F-4583-8123-6D1ACDC69DD6}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PostOffice", "PostOffice\PostOffice.csproj", "{91E1CE12-981F-4583-8123-6D1ACDC69DD6}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ChoreWarsV2", "ChoreWarsV2\ChoreWarsV2.csproj", "{808FDCB5-8F93-489A-8A5B-10CA6401F954}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ChoreWarsV3", "ChoreWarsV3\ChoreWarsV3.csproj", "{0358C16B-FEA4-4C07-AE7F-93252BB8CA4F}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -57,6 +61,14 @@ Global
 		{91E1CE12-981F-4583-8123-6D1ACDC69DD6}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{91E1CE12-981F-4583-8123-6D1ACDC69DD6}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{91E1CE12-981F-4583-8123-6D1ACDC69DD6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{808FDCB5-8F93-489A-8A5B-10CA6401F954}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{808FDCB5-8F93-489A-8A5B-10CA6401F954}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{808FDCB5-8F93-489A-8A5B-10CA6401F954}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{808FDCB5-8F93-489A-8A5B-10CA6401F954}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0358C16B-FEA4-4C07-AE7F-93252BB8CA4F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0358C16B-FEA4-4C07-AE7F-93252BB8CA4F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0358C16B-FEA4-4C07-AE7F-93252BB8CA4F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0358C16B-FEA4-4C07-AE7F-93252BB8CA4F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

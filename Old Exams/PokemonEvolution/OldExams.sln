@@ -27,9 +27,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Concert", "Concert\Concert.
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SongEncryption", "SongEncryption\SongEncryption.csproj", "{4D8995A3-3723-4CA3-AE6E-EC3F0CB5370F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BakingMasterclass", "BakingMasterclass\BakingMasterclass.csproj", "{25D2CA4D-D899-437B-8D05-6AC80880F2D8}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BakingMasterclass", "BakingMasterclass\BakingMasterclass.csproj", "{25D2CA4D-D899-437B-8D05-6AC80880F2D8}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BakingRush", "BakingRush\BakingRush.csproj", "{45CFAF42-5AD5-41DC-B86C-8B34E1189697}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BakingRush", "BakingRush\BakingRush.csproj", "{45CFAF42-5AD5-41DC-B86C-8B34E1189697}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BakingFactory", "BakingFactory\BakingFactory.csproj", "{6DA2861D-07E5-41B6-8BD9-0AC2F73FA2F4}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -93,6 +95,10 @@ Global
 		{45CFAF42-5AD5-41DC-B86C-8B34E1189697}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{45CFAF42-5AD5-41DC-B86C-8B34E1189697}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{45CFAF42-5AD5-41DC-B86C-8B34E1189697}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6DA2861D-07E5-41B6-8BD9-0AC2F73FA2F4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6DA2861D-07E5-41B6-8BD9-0AC2F73FA2F4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6DA2861D-07E5-41B6-8BD9-0AC2F73FA2F4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6DA2861D-07E5-41B6-8BD9-0AC2F73FA2F4}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

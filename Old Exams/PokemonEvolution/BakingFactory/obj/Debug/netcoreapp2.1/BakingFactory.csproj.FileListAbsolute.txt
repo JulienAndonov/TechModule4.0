@@ -1,0 +1,10 @@
+C:\University\C#IBM\TechModule4.0\Old Exams\PokemonEvolution\BakingFactory\bin\Debug\netcoreapp2.1\BakingFactory.deps.json
+C:\University\C#IBM\TechModule4.0\Old Exams\PokemonEvolution\BakingFactory\bin\Debug\netcoreapp2.1\BakingFactory.runtimeconfig.json
+C:\University\C#IBM\TechModule4.0\Old Exams\PokemonEvolution\BakingFactory\bin\Debug\netcoreapp2.1\BakingFactory.runtimeconfig.dev.json
+C:\University\C#IBM\TechModule4.0\Old Exams\PokemonEvolution\BakingFactory\bin\Debug\netcoreapp2.1\BakingFactory.dll
+C:\University\C#IBM\TechModule4.0\Old Exams\PokemonEvolution\BakingFactory\bin\Debug\netcoreapp2.1\BakingFactory.pdb
+C:\University\C#IBM\TechModule4.0\Old Exams\PokemonEvolution\BakingFactory\obj\Debug\netcoreapp2.1\BakingFactory.csproj.CoreCompileInputs.cache
+C:\University\C#IBM\TechModule4.0\Old Exams\PokemonEvolution\BakingFactory\obj\Debug\netcoreapp2.1\BakingFactory.AssemblyInfoInputs.cache
+C:\University\C#IBM\TechModule4.0\Old Exams\PokemonEvolution\BakingFactory\obj\Debug\netcoreapp2.1\BakingFactory.AssemblyInfo.cs
+C:\University\C#IBM\TechModule4.0\Old Exams\PokemonEvolution\BakingFactory\obj\Debug\netcoreapp2.1\BakingFactory.dll
+C:\University\C#IBM\TechModule4.0\Old Exams\PokemonEvolution\BakingFactory\obj\Debug\netcoreapp2.1\BakingFactory.pdb

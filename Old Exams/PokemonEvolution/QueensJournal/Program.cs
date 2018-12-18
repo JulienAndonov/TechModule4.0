@@ -51,16 +51,12 @@ namespace QueensJournal
                 {
                     List<string> sideQuest = tokens[1].Split(":").ToList();
 
-
-
                     if (lessons.Contains(sideQuest[0]) && (!lessons.Contains(sideQuest[1])))
                     {
                         int indextokensOne = lessons.IndexOf(sideQuest[0]);
 
                         lessons.Insert(indextokensOne + 1, sideQuest[1]);
-
                     }
-
                 }
 
                 else if (tokens[0] == "Renew")
@@ -73,9 +69,6 @@ namespace QueensJournal
                         lessons.Add(tokens[1]);
                         lessons.RemoveAt(indexs);
                     }
-
-
-
                 }
             }
 

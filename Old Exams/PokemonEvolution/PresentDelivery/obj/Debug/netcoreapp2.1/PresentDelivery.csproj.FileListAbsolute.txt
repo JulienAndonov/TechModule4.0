@@ -1,0 +1,11 @@
+C:\University\C#IBM\TechModule4.0\Old Exams\PokemonEvolution\PresentDelivery\bin\Debug\netcoreapp2.1\PresentDelivery.deps.json
+C:\University\C#IBM\TechModule4.0\Old Exams\PokemonEvolution\PresentDelivery\bin\Debug\netcoreapp2.1\PresentDelivery.runtimeconfig.json
+C:\University\C#IBM\TechModule4.0\Old Exams\PokemonEvolution\PresentDelivery\bin\Debug\netcoreapp2.1\PresentDelivery.runtimeconfig.dev.json
+C:\University\C#IBM\TechModule4.0\Old Exams\PokemonEvolution\PresentDelivery\bin\Debug\netcoreapp2.1\PresentDelivery.dll
+C:\University\C#IBM\TechModule4.0\Old Exams\PokemonEvolution\PresentDelivery\bin\Debug\netcoreapp2.1\PresentDelivery.pdb
+C:\University\C#IBM\TechModule4.0\Old Exams\PokemonEvolution\PresentDelivery\obj\Debug\netcoreapp2.1\PresentDelivery.csprojAssemblyReference.cache
+C:\University\C#IBM\TechModule4.0\Old Exams\PokemonEvolution\PresentDelivery\obj\Debug\netcoreapp2.1\PresentDelivery.csproj.CoreCompileInputs.cache
+C:\University\C#IBM\TechModule4.0\Old Exams\PokemonEvolution\PresentDelivery\obj\Debug\netcoreapp2.1\PresentDelivery.AssemblyInfoInputs.cache
+C:\University\C#IBM\TechModule4.0\Old Exams\PokemonEvolution\PresentDelivery\obj\Debug\netcoreapp2.1\PresentDelivery.AssemblyInfo.cs
+C:\University\C#IBM\TechModule4.0\Old Exams\PokemonEvolution\PresentDelivery\obj\Debug\netcoreapp2.1\PresentDelivery.dll
+C:\University\C#IBM\TechModule4.0\Old Exams\PokemonEvolution\PresentDelivery\obj\Debug\netcoreapp2.1\PresentDelivery.pdb
